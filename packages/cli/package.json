@@ -86,7 +86,7 @@
     "console-table-printer": "^2.11.2",
     "dockerfile-ast": "^0.6.1",
     "e2b": "^2.13.1",
-    "handlebars": "^4.7.8",
+    "handlebars": "^4.7.9",
     "inquirer": "^12.10.0",
     "open": "^9.1.0",
     "statuses": "^2.0.1",
